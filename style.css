@@ -1,0 +1,64 @@
+/*font-family: 'Exo 2', sans-serif;
+font-family: 'Neucha', cursive;
+font-family: 'Marck Script', cursive;
+font-family: 'Philosopher', sans-serif;
+font-family: 'Press Start 2P', cursive;
+font-family: 'Russo One', sans-serif;*/
+body {
+	color: black; /**/
+}
+	/*h1 {
+	text-shadow: 1px 1px 0px black, 0 0 1em black;
+	color: blue;
+	font-size: 2em;
+	}*/	
+
+
+
+h1 {
+	text-align: center;/**/
+	margin: blue; /**/
+	color: black; /**/
+	border: 5px black solid; /*граница: толщина цвет стиль*/
+	font-size: 40px;
+	background-color: lime; /*цвет-фона: лаймовый*/
+	font-family: 'Exo 2', sans-serif;
+}
+
+p {
+	width: 1200px; /*ширина 1200пикселей*/
+	text-align: justify; /*выравнивание-текста: по-цифре*/
+	margin: auto; /*отступы: автоматически*/
+	color: black; /*цвет: чёрный*/
+	padding: 15px; /*внутренние отступы*/
+	box-sizing: border-box; /*вариант отображения элемента:
+	block - элемент растягивается на всю строку, блок
+	inline - элемент ведёт себя как буква, не растягивается на всю строку*/
+	background-color: #008cff; /*цвет-фона: синий*/
+	display: block; /*вариант отображения элемента:
+	block - элемент растягивается на всю строку, блок
+	inline - элемент ведёт себя как буква, не растягивается на всю строку*/
+	border: 5px black solid; /*граница: толщина цвет стиль*/
+	font-size: 30px; /**/
+}
+
+a {
+	color: black;
+	background-color: red;
+	border: 3px black solid;
+	font-size: 30px;
+	margin: auto;
+	text-align: justify;
+	font-family: 'Marck Script', cursive;
+
+
+}
+
+}
+div {
+	background-image: url("");
+	background-color: white; /**/
+	background-size: 100%; /**/
+	height: 90%; /**/
+	display: block; /**/
+}
